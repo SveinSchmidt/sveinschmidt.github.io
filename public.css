@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(216, 215, 215);
+    
+    
+
+}
+
+
+a{
+    text-decoration: none;
+    color:rgb(168, 158, 158)
+}
+
+#black-bar{
+ width: 100%;
+ background-color: rgba(0, 0, 0, 0.863);
+ padding: 15px;
+ position: relative;
+
+
+
+}
+#menu{
+   margin: 0em;
+   padding: 0px;
+   font-size: 18px;
+   position: relative;
+   left:80%;
+   width:200px;
+   
+}
+
+a:hover{ color: whitesmoke
+}
+
+a#a1 {
+    padding:10px;
+}
+
+a#a2 {
+    padding:10px;
+}
+
+a#a3 {
+    padding-left:10px;
+}
