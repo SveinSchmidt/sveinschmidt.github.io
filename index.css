@@ -1,75 +1,43 @@
-#featured-clip {
-    position:relative;
-    top: -261px;
-    left:5%;
-    padding:0px;
-    margin: 0px;
-    width:40%;
-    
-    
+
+body{
+    margin:0;
+    padding:0;
 }
 
-h1#Overskrift {
-    position:relative;
-    top:50px;
-    left:15%;
-    padding:10px;
-    margin: 0px;
-}
-
-h2#about-me {
-    position:relative;
-    top:30px;
-    left:15%;
-    padding:10px;
-    margin: 0px;
-}
-
-#about-me-paragraph {
-    position:relative;
-    top:30px;
-    left:15.7%;
-    padding-bottom:10px;
-    margin: 0em;
-    width: 30%;
-}
-
-#my-twitch {
-    position:relative;
-    width:40%;
-    top:200px;
-    left:50%;
-    padding-bottom:10px;
-    margin: 0px;
-    
-    
-}
-
-#twitch
- {border-style: solid;
- border-width: 10px ;
- border-color: black
-}
-
-#twitchh2 {
+.box{
+    width: 450px;
+    background:rgba(104, 104, 104, 0.4);
+    padding: 40px;
     text-align: center;
-    padding: 0px;
-    margin:0px; 
-    width:19%;
-    border-color:black;
-    border-width: 20px;
-
-
+    margin: auto;
+    margin-top: 5%;
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
 }
 
-#my-clip{
-    border-color:black;
-    border-width: 10px;
+.box-image{
+    border-radius:50%;
+    width:200px;
+    height:200px;
 }
 
-h2#my-clip-text {
-    padding:0 ; 
-    margin:0 ;
-    text-align: center
+.box h1{
+    font-size:40px;
+    letter-spacing:4px;
+    font-weight:100;
 }
 
+.box h5{
+    font-size:20px;
+    letter-spacing: 3px;
+    font-weight: 100;
+}
+
+.box p{
+    text-align: justify;
+    font-weight: 200;
+}
+
+#champOutput{
+    color:whitesmoke;
+}
