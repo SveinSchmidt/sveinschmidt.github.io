@@ -10,7 +10,7 @@ let randomChamp=()=>{
     let number=Math.floor((Math.random()*154))
     let selectedChampion=champions[number]
     console.log(selectedChampion)
-    document.getElementById("champOutput").innerText+=(selectedChampion+"\n")
+    document.getElementById("champOutput").innerText=(selectedChampion+"\n")
 }
 
 
