@@ -22,7 +22,7 @@ a{
    font-size: 21px;
    position: relative;
    left: 3.5%;
-   width:360px;
+   width:500px;
 
 }
 
@@ -55,5 +55,4 @@ a#a3 {
 a#a4 {
     padding-left: 9px;
     padding-right:13px;
-
 }
