@@ -1,0 +1,38 @@
+.article img{
+width:45%;
+padding-top:2%;
+padding-left:29%;
+}
+
+.article h1{
+    margin:0;
+    color:#3863C1;
+    text-align:left;
+    font-family:sans-serif;
+    padding-left:30%;
+    padding-right:30%;
+    font-weight:770;
+    font-size:190%;
+    padding-top:2%;
+}
+
+.article h3{
+    margin:0;
+    color:#3863C1;
+    text-align:left;
+    font-family:sans-serif;
+    padding-left:30%;
+    padding-right:30%;
+    font-size:150%;
+    padding-top:2%;
+}
+
+.article p{
+    margin:0;
+    text-align:left;
+    color:#ADADAD;
+    padding-left:30%;
+    padding-right:30%;
+    padding-top:1%;
+    font-family:sans-serif;
+}
